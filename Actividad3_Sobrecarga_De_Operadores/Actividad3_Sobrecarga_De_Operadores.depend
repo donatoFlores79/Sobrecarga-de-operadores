@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1693882674 source:d:\3sem\seminario estructuras de datos 1\actividad2_clases_y_objetos\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Materia.h"
+
+1693886182 source:d:\3sem\seminario estructuras de datos 1\actividad2_clases_y_objetos\materia.cpp
+	"Materia.h"
+
+1693884932 source:d:\3sem\seminario estructuras de datos 1\actividad2_clases_y_objetos\empleado.cpp
+	"Empleado.h"
+
+1693884706 d:\3sem\seminario estructuras de datos 1\actividad2_clases_y_objetos\empleado.h
+	<string>
+	"iostream"
+
+1693886664 d:\3sem\seminario estructuras de datos 1\actividad2_clases_y_objetos\materia.h
+	<string>
+	"iostream"
+
+1693900668 source:d:\3sem\seminario estructuras de datos 1\actividad3_sobrecarga_de_operadores\empleado.cpp
+	"Empleado.h"
+
+1693900006 d:\3sem\seminario estructuras de datos 1\actividad3_sobrecarga_de_operadores\empleado.h
+	<string>
+	"iostream"
+
+1693886664 source:d:\3sem\seminario estructuras de datos 1\actividad3_sobrecarga_de_operadores\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Materia.h"
+
+1693899692 d:\3sem\seminario estructuras de datos 1\actividad3_sobrecarga_de_operadores\materia.h
+	<string>
+	<iostream>
+
+1693900658 source:d:\3sem\seminario estructuras de datos 1\actividad3_sobrecarga_de_operadores\materia.cpp
+	"Materia.h"
+
